@@ -1,5 +1,5 @@
-marks=70
-marks=50
-marks=67
 marks=72
-marks=85
+marks=55
+marks=63
+marks=78
+marks=95
